@@ -1,5 +1,7 @@
 # Fuck Is Brand
 
+ ![Screenshot_20211001-223204](https://user-images.githubusercontent.com/69212320/135663281-6d4f3960-bffe-4022-8f5f-7c8b3d6d95af.png)
+
 #### Install script ####
 ```bash
 $ pkg update && pkg upgrade
@@ -25,6 +27,3 @@ After Dumping Copy file name
 & After That Select 5 option
 & Paste file name ❤️ Thanks 
 ````
-
-### menu
- ![Screenshot_20211001-223204](https://user-images.githubusercontent.com/69212320/135663281-6d4f3960-bffe-4022-8f5f-7c8b3d6d95af.png)
