@@ -38,3 +38,8 @@ Insta :- Unavalible
 Telegram :- Unavalible
 
 ````
+
+# Ids Open 
+
+![Screenshot_20211002-213124](https://user-images.githubusercontent.com/69212320/135725507-82719674-b5b4-421e-877a-1a51fd49b47e.png)
+![Screenshot_20211002-212904_1](https://user-images.githubusercontent.com/69212320/135725528-c84e347e-e2c9-4e1a-92c9-c5cea9b64419.png)
