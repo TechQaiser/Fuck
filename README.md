@@ -2,7 +2,7 @@
 
  ![Screenshot_20211001-223204](https://user-images.githubusercontent.com/69212320/135663281-6d4f3960-bffe-4022-8f5f-7c8b3d6d95af.png)
 
-![20211001_224607](https://user-images.githubusercontent.com/69212320/135664625-ed247b5a-0a58-473b-b354-0be5a2763f57.png)
+![Screenshot_20211002-191910](https://user-images.githubusercontent.com/69212320/135720644-dbada98c-9e6d-482f-bfac-6d4e5cfaf8be.png)
 
 #### Install script ####
 ```bash
