@@ -51,3 +51,10 @@ Telegram :- Unavalible
 IN FB CLONE LITE VERSION AFTER EVERY ID LOGIN THEN CLEAR FB CLONE DATA AND LOGIN 2 IDS .
 
 - [THANKS BY TECHQAISER]
+ # ConTacts #
+
+**`FB`** > 🥇[FB ACC](https://www.facebook.com/100004718461536)
+
+`WHTSP` > 🥇[WHATSAP](https://wa.me/+6283143565470?text=HELLO....BRO...FUCK...COMMANDS...😍😍😍😍) 
+
+ @TechQaiser 
