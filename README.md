@@ -1,8 +1,6 @@
 ## Fuck Is Brand
 
- ![Screenshot_20211001-223204](https://user-images.githubusercontent.com/69212320/135663281-6d4f3960-bffe-4022-8f5f-7c8b3d6d95af.png)
-
-![Screenshot_20211002-191910](https://user-images.githubusercontent.com/69212320/135720644-dbada98c-9e6d-482f-bfac-6d4e5cfaf8be.png)
+![PicsArt_10-13-01 13 10](https://user-images.githubusercontent.com/69212320/137024548-9cfc46d2-5005-476c-be42-6d11bae640b2.jpg)
 
 #### Install script ####
 ```bash
