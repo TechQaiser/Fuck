@@ -64,3 +64,8 @@ IN FB CLONE LITE VERSION AFTER EVERY ID LOGIN THEN CLEAR FB CLONE DATA AND LOGIN
 `WHTSP` > 🥇[WHATSAP](https://wa.me/+923079321417?text=HELLO....BRO...FUCK...COMMANDS...😍😍😍😍) 
 
  @TechQaiser 
+
+### Latest Update 13-Oct-2021
+- Clone **2009** Accounts Without Problem & Open **After 7 Day**
+
+![PicsArt_10-13-04 33 32](https://user-images.githubusercontent.com/69212320/137125349-ac066ddb-60f8-4e33-84cf-1fa61bf4332f.jpg)
