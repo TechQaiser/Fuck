@@ -1,7 +1,7 @@
 ## Fuck Is Brand
 
 
-<img src="https://github.com/TechQaiser/blob/main/IMAGE/62735854.jpeg" width="120" height="120" align="left">
+<img src="https://avatars.githubusercontent.com/u/69212320?s=96&v=4" width="120" height="120" align="left">
 <center>
 
 
