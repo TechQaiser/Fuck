@@ -45,7 +45,7 @@ Telegram :- Unavalible
 ![IMG-20211011-WA0121](https://user-images.githubusercontent.com/69212320/137024823-740e5a4a-193a-46b9-b39d-5c8d06257f7b.jpg)
  ### **BEST** **FEATURE**
 
-##1## DOWNLOAD **FB** LITE CLONE APK FROM **HERE**  [Down Fb Clone Apk Here](https://m.apkpure.com/lite-clone/com.facebook.litf/download) 
+##1## DOWNLOAD **FB** LITE CLONE APK FROM **HERE**  [Down Fb Clone Apk Here](http://www.mediafire.com/file/730rawchzw2v27r/LITE_1_%2528www.reyandilawar.blogspot.com%2529.apk/file) 
 
 ##2## AFTER THAT PUT **IDS** EMAIL **&** PASS
 IN FB CLONE LITE VERSION AFTER EVERY ID LOGIN THEN CLEAR FB CLONE DATA AND LOGIN 2 IDS .
