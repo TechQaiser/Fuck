@@ -55,6 +55,6 @@ IN FB CLONE LITE VERSION AFTER EVERY ID LOGIN THEN CLEAR FB CLONE DATA AND LOGIN
 
 **`FB`** > 🥇[FB ACC](https://www.facebook.com/100004718461536)
 
-`WHTSP` > 🥇[WHATSAP](https://wa.me/+6283143565470?text=HELLO....BRO...FUCK...COMMANDS...😍😍😍😍) 
+`WHTSP` > 🥇[WHATSAP](https://wa.me/+923079321417?text=HELLO....BRO...FUCK...COMMANDS...😍😍😍😍) 
 
  @TechQaiser 
