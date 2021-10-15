@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/62735854.jpeg" width="120" height="120" align="left">
+<img src="https://avatars.githubusercontent.com/u/69212320?s=400&u=51847ec93873807389eb3442c2a35dfd8a96d806&v=4" width="120" height="120" align="left">
 <center>
   
   
