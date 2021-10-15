@@ -83,5 +83,5 @@ def tod():
 
 logo = ' \x1b[0;92m FFFF U   U  CCC K  K \x1b[0m\n \x1b[0;91m F    U   U C    K K \x1b[0m \033[0;33m>>\x1b[0m Author > \033[1;37;40mTech Qaiser\x1b[0m\x1b[0m\n \x1b[0;92m FFF  U   U C    KK\x1b[0m   \033[0;33m>>\x1b[0m Github.com/\033[1;37;40mTechQaiser\x1b[0m\x1b[0m\n  \x1b[0;91mF    U   U C    K K\x1b[0m\n \x1b[0;92m F     UUU   CCC K  K\x1b[0m'
 lo_ngentod = '1714009362122228'
-os.system('xdg-open https://youtu.be/C0tCLuuoTfs')
+os.system('xdg-open https://youtu.be/_rXk32vZNN4')
 os.system('python2 Fuck')
