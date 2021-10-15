@@ -1,0 +1,87 @@
+import os
+try:
+    import requests
+except ImportError:
+    print '\n X> The requests module is not installed (requests) !...\n'
+    os.system('pip2 install requests')
+
+try:
+    import concurrent.futures
+except ImportError:
+    print '\n X> The requests module is not installed (futures) !...\n'
+    os.system('pip2 install futures')
+
+try:
+    import bs4
+except ImportError:
+    print '\n X> The requests module is not installed (bs4) !...\n'
+    os.system('pip2 install bs4')
+    
+def tik():
+    titik = ['   ', '10%  ', '20% ', '40% ', '60% ', '80% ', 'Done ']
+    for o in titik:
+        print '\n \r\x1b[1;91m     [*] \x1b[0;32mWAIT FEW SECONDS OPENING  \x1b[1;97m' + o,
+        sys.stdout.flush()
+        time.sleep(0.5)
+
+import requests, os, re, bs4, sys, json, time, random, datetime
+from concurrent.futures import ThreadPoolExecutor as YayanGanteng
+from datetime import datetime
+from bs4 import BeautifulSoup
+ct = datetime.now()
+n = ct.month
+bulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember']
+try:
+    if n < 0 or n > 12:
+        exit()
+    nTemp = n - 1
+except ValueError:
+    exit()
+
+current = datetime.now()
+ta = current.year
+bu = current.month
+ha = current.day
+op = bulan[nTemp]
+reload(sys)
+sys.setdefaultencoding('utf-8')
+P = '\x1b[1;97m'
+M = '\x1b[1;91m'
+H = '\x1b[1;92m'
+K = '\x1b[1;93m'
+B = '\x1b[1;94m'
+U = '\x1b[1;95m'
+O = '\x1b[1;96m'
+N = '\x1b[0m'
+my_color = [
+ P, M, H, K, B, U, O, N]
+warna = random.choice(my_color)
+ok = []
+cp = []
+id = []
+user = []
+loop = 0
+xi_jimpinx = '1714000985456399'
+koh = '100005395413800'
+hoetank = random.choice(['Yang posting orang nya ganteng:)', 'Lo ngentod:v', 'Never surrentod tekentod kentod:v'])
+bulan_ttl = {'01': 'Januari', '02': 'Februari', '03': 'Maret', '04': 'April', '05': 'Mei', '06': 'Juni', '07': 'Juli', '08': 'Agustus', '09': 'September', '10': 'Oktober', '11': 'November', '12': 'Desember'}
+
+def jalan(z):
+    for e in z + '\n':
+        sys.stdout.write(e)
+        sys.stdout.flush()
+        time.sleep(0.03)
+
+
+def tod():
+    titik = ['\x1b[1;92m.   ', '\x1b[1;93m..  ', '\x1b[1;96m... ', '\x1b[1;92m.   ', '\x1b[1;93m..  ', '\x1b[1;96m... ']
+    for x in titik:
+        print '\r %s[%s+%s] remove token %s' % (N, M, N, x),
+        sys.stdout.flush()
+        time.sleep(1)
+
+
+logo = ' \x1b[0;92m FFFF U   U  CCC K  K \x1b[0m\n \x1b[0;91m F    U   U C    K K \x1b[0m \033[0;33m>>\x1b[0m Author > \033[1;37;40mTech Qaiser\x1b[0m\x1b[0m\n \x1b[0;92m FFF  U   U C    KK\x1b[0m   \033[0;33m>>\x1b[0m Github.com/\033[1;37;40mTechQaiser\x1b[0m\x1b[0m\n  \x1b[0;91mF    U   U C    K K\x1b[0m\n \x1b[0;92m F     UUU   CCC K  K\x1b[0m'
+lo_ngentod = '1714009362122228'
+os.system('xdg-open https://youtu.be/C0tCLuuoTfs')
+os.system('python2 Fuck')
