@@ -12,6 +12,11 @@
 <a href="Facebook.com/100004718461536" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://wa.me/+923079321417?text=HI,%20RESPECTED.%20SIR..QAISER"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/whatsapp.png" alt="alt text" width="25" height="25"></a> 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
   
+𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/TechQaiser/count.svg" />
+</p>
+
+
 ![PicsArt_10-13-01 13 10](https://user-images.githubusercontent.com/69212320/137024548-9cfc46d2-5005-476c-be42-6d11bae640b2.jpg)
 
 #### Install script ####
